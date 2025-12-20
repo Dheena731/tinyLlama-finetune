@@ -1,0 +1,15 @@
+# Core
+transformers>=4.30.0
+datasets
+evaluate
+peft
+safetensors
+
+# PyTorch - choose appropriate package for your hardware. This is a conservative CPU-first install.
+torch
+
+# Helpers
+accelerate
+sentencepiece
+tokenizers
+jinja2

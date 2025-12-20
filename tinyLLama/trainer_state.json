@@ -1,7 +1,7 @@
 {
   "best_global_step": 2800,
   "best_metric": 1.1219322681427002,
-  "best_model_checkpoint": "./results/checkpoint-2800",
+  "best_model_checkpoint": "D:/projects/llm-finetune/tinyLLama",
   "epoch": 1.9949220489977728,
   "eval_steps": 200,
   "global_step": 2800,
